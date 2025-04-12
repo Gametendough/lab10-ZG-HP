@@ -37,5 +37,5 @@ def div(a, b):
     try:
         return a / b
     except ZeroDivisionError:
-        print("Cannot divide by zero.")
+        raise ZeroDivisionError("ZeroDivisionError")
 
