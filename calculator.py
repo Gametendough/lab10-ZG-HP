@@ -1,3 +1,7 @@
+#https://github.com/Gametendough/lab10-ZG-HP/tree/main
+#Partner 1: Zachary Gonzalez
+#Partner 2: Hansita Penikalapati
+
 import math
 
 def square_root(a):
