@@ -19,7 +19,7 @@ def div(a, b):
     if a==0:
         raise ZeroDivisionError
     return b / a
-=======
+
 # First example
 def add(a, b): 
     return a+b
