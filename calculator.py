@@ -30,8 +30,12 @@ def div(a, b):
     if a==0:
         raise ZeroDivisionError
     return b / a
+<<<<<<< HEAD
 =======
 >>>>>>> e61cc3eea5f428ce28e979d69fc442472702abd3
+=======
+
+>>>>>>> 381a2ac4f8ab806ce388043f31a20c6b239d2168
 # First example
 def add(a, b): 
     return a+b
